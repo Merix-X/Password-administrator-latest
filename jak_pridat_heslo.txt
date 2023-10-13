@@ -1,0 +1,34 @@
+Pro správné fungování hledání a upravování hesel je potřebné dodržovat správné přidávání hesel!
+Zde je popis toho, jak by mělo přidání hesla vypadat.:
+
+    1) Je důležité si uvědomit že heslem se myslí i celé přihlašovací údaje!
+       Tedy pokud budete přidávat heslo, měl/a byste nějak heslo pojmenovat.
+       (např.: když budete přidávat heslo ke Google účtu, pojmenujete jej - Google)
+       Toto však není pravidlem! Pokud chcete uložit pouze heslo samotné platí jen jedno pravidlo
+       pro jeho uložení. A to jen jeho pojmenování jako je uvedeno zde! (př. Google:   heslo1234)
+
+    2) V našem případě je také na Google potřebné zadat uživatelské jméno.
+       Přidáme tedy za ,,Google" dvojtečku, pro oddělení například 3 mezery a napíšete uživ. jméno!
+       (př.: Google:   nekdo)
+
+    3) E-mail: V našem případě - ke google účtu - nesmí chybět E-mail! Proto zapíšeme E-mail.
+       (př.: Google:   nekdo   nekdo1234@gmail.com)
+
+    4) A nakonec přidání heslo samotného! Znovu tedy zapíšeme 3 mezery pro oddělení, a heslo samotné!
+       (př.: Google:   nekdo   nekdo1234@gmail.com   abcd12345)
+
+    5) Nyní můžete uložení potvrdit tlačítkem "OK" a heslo máte uložené! Pokud teď budete heslo
+       hledat, stačí abyste do hledacího řádku napsal/a název hesla (V našem případě: Google)
+       a to se vám objeví v oranžovém rámečku pod hledacím řádkem, kde si ho můžete označením a stisknutím
+       kombinace kláves CTRL+C zkopírovat.
+
+    Hladání:
+      - Hesla můžete hledat i za pomocí e-mailu či uživatelského jména! Mějte však na vědomí, že pokud
+        budete hledat heslo podle čehokoliv (uživ. jména, e-mailu, názvu apod...) a budete mít více hesel
+        se stejným názvem (uživ. jménem, e-mailem), vyhledávač najde pouze heslo které jste přidali dříve!!!
+
+        př. 1) Google:   nekdo123   nekdo1@gmail.com   abcd123
+            2) Microsoft:   nekdo123   nekdo2@gamil.com   abcd12345
+
+         - Pokud byste zadal/a uživatelské jméno ("nekdo123"), vyhledávač najde Google protože jste ho
+           přidal/a dříve než Microsoft. Proto doporučuji dávat heslům odlišná jména!

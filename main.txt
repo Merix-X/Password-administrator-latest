@@ -1,0 +1,6 @@
+main.py nebo-li soubor .py který se spouští když otevřete tuto aplikaci
+
+--------------------------------------------------------------------------------------------------
+
+import Graphic_Module as gm
+gm.Graphic.graphic("Grafika")

@@ -1,0 +1,5 @@
+Update 1.8.0:
+   -Možnost zobrazení seznamu hesel
+
+Update 2.0.0:
+   -Možnost přihlášení se do aplikace heslem
