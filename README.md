@@ -30,6 +30,7 @@ by: Merix
 
 
 
+----------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -63,5 +64,6 @@ by: Merix
       -v1.7 - NEW: Reworking of the application code with improved functionality of all options!
       -v1.7.5 - NEW: Removal of serious and minor errors
       -v2.0 - NEW: Logging into the manager with a single password
+
 
 
