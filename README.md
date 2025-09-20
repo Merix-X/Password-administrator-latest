@@ -33,22 +33,21 @@ by: Merix
 
 # Channel log:
 
-v1.2:   Please note that once you select one of the initial options in this application and fill it in,
+- v1.2:   Please note that once you select one of the initial options in this application and fill it in,
         you cannot go back to the options and continue!
-v1.5:   This version of the program includes this feature and much more!
-v1.7:   In this program update, you will find a new option in the options box
-        - Password Removal - as well as other modifications!
-v1.8:   This new version includes a password list display feature
-v2.0:   Update 2.0.0 is one of the most complex and sophisticated updates. It includes
-    the option to connect to a password generator as well as other cool features
+- v1.5:   This version of the program includes this feature and much more!
+- v1.7:   In this program update, you will find a new option in the options box
+          - Password Removal - as well as other modifications!
+- v1.8:   This new version includes a password list display feature
+- v2.0:   Update 2.0.0 is one of the most complex and sophisticated updates. It includes the option to connect to a password generator as well as other cool features
 
-The application includes the following features:
+- The application includes the following features:
    -Adding passwords
    -Quick search in passwords
    -Editing already saved passwords
    -v1.7 - NEW: Password removal
    
-   The menu at the top of the application includes:
+   - The menu at the top of the application includes:
       -Option to display the application source code
       -Display this file
       -v1.5 - NEW:  Display instructions for adding a password correctly
@@ -57,7 +56,7 @@ The application includes the following features:
       -v2.0 - NEW: Option to connect to a password generator
       -v2.0 - NEW: Option to change the color theme
 
-   Other:
+   - Other:
       -v1.7 - NEW: Correction of grammatical errors in the instructions for adding a password correctly
       -v1.7 - NEW: Reworking of the application code with improved functionality of all options!
       -v1.7.5 - NEW: Removal of serious and minor errors
