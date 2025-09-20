@@ -26,14 +26,14 @@ by: Merix
  
  **[!Download FOR FREE here!](https://merix-industries.com/)** 
  
- (Note: The password administrator is currently only available in Czech, but will be multilingual in later versions! Stay tuned for further updates!)
+(Note: The password administrator is currently only available in Czech, but will be multilingual in later versions! Stay tuned for further updates!)
 
 -
 -
-----------------------------------------------------------------------------------------------------------------------------
 -
 -
 -
+
 # Version log:
 
 - v1.2:   Please note that once you select one of the initial options in this application and fill it in,
@@ -64,6 +64,7 @@ by: Merix
       -v1.7 - NEW: Reworking of the application code with improved functionality of all options!
       -v1.7.5 - NEW: Removal of serious and minor errors
       -v2.0 - NEW: Logging into the manager with a single password
+
 
 
 
